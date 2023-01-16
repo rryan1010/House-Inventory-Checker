@@ -7,4 +7,5 @@ Includes features such as item addition/deletion, full Inventory display, and fi
 Allows businesses to make informed decisions about stocking/selling goods and improving overall supply chain management.
 
 
+
 Structured to be versatile and applicable to other fields.
